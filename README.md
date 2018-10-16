@@ -24,8 +24,8 @@ Press `Enter` after finishing of the text. The edit mode will be completed.
 
 Now press `Tab` to create new child block. *Each new block will be displayed in edit mode by default with the focus on the text area.
 
-Creating new sister block on `Enter` press works on each block exept of root block (only one root can be existed)
-Click on mouse turns off edit mode if click was performed on empty space and will open edit mode in the block if it was clicked on it. 
+Creating a new sister block after pressing `Enter` works on each block except the root block (only one root can be existed).
+Clicking the mouse turns off edit mode, if click was performed on empty space and will open edit mode in the block if it was clicked on it. 
 
 Short workflow:
 `typing` -> `Enter` -> `Tab` -> `typing` -> `Enter` -> `Enter` -> `typing` ...
